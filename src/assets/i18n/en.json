@@ -10,16 +10,17 @@
   "Banner.ActionBtn": "Get in touch",
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NestJs, MongoDB and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+    "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>NodeJS, ExpressJS, NestJs, MongoDB and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
     "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
     "Some of the technologies that I have trained and worked on include (but are not limited to):"
   ],
   "Experience.Title": "Experience",
   "Experience.Jobs": [
     {
-      "Tab": "Emblem",
-      "Title": "Fullstack developer",
-      "Date": "March 2022 - Present",
+      "Tab": "CodeGen - SE",
+      "Company": "CodeGen International",
+      "Title": "Software Engineer",
+      "Date": "Dec 2021 - Jun 2023",
       "Description": [
         "Developed and maintained a web-based application using Angular, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
         "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
@@ -29,55 +30,41 @@
         "Planning meetings in reports."
       ]
     },
-
     {
-      "Tab": "BCM",
-      "Title": "Frontend developer",
-      "Date": "October 2020 - Feburary 2022",
+      "Tab": "DxDy - ASE",
+      "Company": "DxDy (SmallAxe (Pvt) Ltd)",
+      "Title": "Associate Software Engineer",
+      "Date": "Apr 2021 - Oct 2021",
       "Description": [
+        "Experienced as a Fullstack Developer, focusing on React, Flutter, MongoDB, NodeJS and ExpressJS.",
+        "Successfully conducted testing, installation, configuration, and troubleshooting."
+      ]
+    },
+    {
+      "Tab": "DxDy - Intern",
+      "Company": "DxDy (SmallAxe (Pvt) Ltd)",
+      "Title": "Intern Software Engineer",
+      "Date": "Oct 2020 - Apr 2021",
+      "Description": [
+        "Experienced as a Fullstack Developer, focusing on Angular, React, Laravel, PHP, and Docker.",
+        "Strengthened skills through training, workshops, and self-driven learning initiatives."
+      ]
+    },
+    {
+      "Tab": "Freelance",
+      "Company": "Freelance",
+      "Title": "Full-Stack Developer",
+      "Date": "May 2020 - Present ",
+      "Description": [
+        "Proficiently developed and customized frontends using Angular and StoryBook, creating engaging user interfaces.",
+        "Demonstrated expertise in backend development with Node.js and ExpressJS, ensuring robust and efficient server-side functionalities.",
+        "Leveraged database technologies including MongoDB and Firebase to efficiently manage data and enhance application performance.",
         "Developed and maintained web applications using Angular and React.",
         "Implementation CI / CD in AWS. Refactoring and optimizing application load times.",
         "Coding of API requests with RxJS.",
         "Creation of modules with complex reactive forms",
         "Improved website performance by optimizing images and implementing caching techniques.",
         "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
-      ]
-    },
-    {
-      "Tab": "BCM 2",
-      "Title": "Frontend developer 2",
-      "Date": "October 2020 - Feburary 2022",
-      "Description": [
-        "Developed and maintained web applications using Angular and React.",
-        "Implementation CI / CD in AWS. Refactoring and optimizing application load times.",
-        "Coding of API requests with RxJS.",
-        "Creation of modules with complex reactive forms",
-        "Improved website performance by optimizing images and implementing caching techniques.",
-        "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
-      ]
-    },
-    {
-      "Tab": "BCM 3",
-      "Title": "Frontend developer 3",
-      "Date": "October 2020 - Feburary 2022",
-      "Description": [
-        "Developed and maintained web applications using Angular and React.",
-        "Implementation CI / CD in AWS. Refactoring and optimizing application load times.",
-        "Coding of API requests with RxJS.",
-        "Creation of modules with complex reactive forms",
-        "Improved website performance by optimizing images and implementing caching techniques.",
-        "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
-      ]
-    },
-    {
-      "Tab": "Freelancer",
-      "Title": "Independent",
-      "Date": "March 2020 - Present",
-      "Description": [
-        "Implementing continuous improvements, working on frontend and backend.",
-        "Creating platforms with Angular, Nodejs, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-        "Automation of processes with data structures.",
-        "Design layout with SASS, Bootstrap, Materialize, Prime Faces, etc."
       ]
     }
   ],
@@ -85,43 +72,66 @@
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
-      "Title": "2x School",
-      "Description": "A Next Generation School Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+      "Title": "Content Upload Web",
+      "Description": "Patient testimonial and workflow management software developed for Hospital Chain in the USA and Europe. <span class='underline'>online chat, </span, <span class='underline'> &nbsp;order history</span>, <span class='underline'>notification system on number and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>stripe integration for secure payments.</span>",
       "imgs": [
-        "assets/images/school/image1.png",
-        "assets/images/school/image2.png"
+        "assets/images/cuw/image1.png",
+        "assets/images/cuw/image2.png",
+        "assets/images/cuw/image3.png",
+        "assets/images/cuw/image4.png",
+        "assets/images/cuw/image5.png",
+        "assets/images/cuw/image6.png",
+        "assets/images/cuw/image7.png",
+        "assets/images/cuw/image8.png"
       ],
-      "Technologies": ["Angular", "SASS", "Angular Material", "RxJS"]
+      "demoLink": "https://dw65zi40pdsdt.cloudfront.net/en-US/#/home",
+      "Technologies": [
+        "Angular",
+        "TypeScript",
+        "StorybookJS",
+        "HTML5",
+        "NodeJS",
+        "Javascript",
+        "Spring Boot",
+        "AWS",
+        "S3",
+        "Serverless",
+        "DynamoDB",
+        "Cognito",
+        "lambda"
+      ]
     },
     {
-      "Title": "Best Buy Mall",
-      "Description": "Best Buy Mall is Online Shopping Mall where you can buy your groceries and household products from your favourite local stores. It has <span class='underline'>online chat, </span, <span class='underline'> &nbsp;order history</span>, <span class='underline'>notification system on number and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>stripe integration for secure payments.</span>",
-      "imgs": ["assets/images/bbm/image1.png", "assets/images/bbm/image2.png"],
-      "Technologies": ["Angular", "SASS", "Material", "RxJS", "ExpressJS"]
-    },
-    {
-      "Title": " Mazhr",
-      "Description": " Mazhr is a Finnish Intelligent Potential and Talent Management company. that help organizations to build better and more efficient teams by matching their  <span class='underline'>Talent</span> and <span class='underline'>Potentials</span>. It has various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
-      "imgs": ["assets/images/mazhr/image1.png"],
-      "Technologies": ["React", "SASS", "Material", "Babel", "NodeJS"]
-    },
-    {
-      "Title": "Needle",
-      "Description": "Needle Music is a pioneer in the digital music industry as it allows users to create and manage their first and only Audiobiography. It built with the <span class='underline'>Spotify SDK</span> Integration.",
-      "imgs": ["assets/images/mazhr/needle.png"],
-      "demoLink": "https://profile.needlemusic.co/bub",
-      "Technologies": ["React", "ChartJS", "SASS", "NodeJS", "Python"]
+      "Title": "CovidIT",
+      "Description": "<span class='underline'>A MEAN stack web application and IOT device</span>, using web technologies, robotic and image processing technologies to protect frontline health workers from COVID-19.",
+      "imgs": [
+        "assets/images/covidit/image1.png",
+        "assets/images/covidit/image2.png",
+        "assets/images/covidit/image3.png",
+        "assets/images/covidit/image4.png",
+        "assets/images/covidit/image5.png",
+        "assets/images/covidit/image6.png",
+        "assets/images/covidit/image7.png",
+        "assets/images/covidit/image8.png",
+        "assets/images/covidit/image9.png",
+        "assets/images/covidit/image10.png",
+        "assets/images/covidit/image11.png"
+      ],
+      "vids": ["assets/videos/Covidit.mp4"],
+      "Technologies": [
+        "Angular",
+        "ExpressJS",
+        "MongoDB",
+        "Nodejs",
+        "Arduino",
+        "Python",
+        "OpenCV",
+        "Raspberry Pi"
+      ]
     }
   ],
   "OtherProjects.Title": "More personal projects",
   "OtherProjects.Projects": [
-    {
-      "Title": "Covid Trackerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
-      "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
-      "ghLink": "https://github.com/mufeez1/carona19-tracker",
-      "demoLink": "http://carona19-by-muffeez.surge.sh/",
-      "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
-    },
     {
       "Title": "Lets Chat",
       "Description": "A real-time chat application. Another fun side project :)",
@@ -133,6 +143,58 @@
         "NodeJS",
         "ExpressJS",
         "Firebase"
+      ]
+    },
+    {
+      "Title": "Quiz App",
+      "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
+      "ghLink": "https://github.com/mufeez1/quizapp",
+      "demoLink": "https://github.com/mufeez1/quizapp",
+      "Technologies": [
+        "React",
+        "SASS",
+        "TypeScript",
+        "API",
+        "3rd Party Library"
+      ]
+    },
+    {
+      "Title": "Quiz App",
+      "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
+      "ghLink": "https://github.com/mufeez1/quizapp",
+      "demoLink": "https://github.com/mufeez1/quizapp",
+      "Technologies": [
+        "React",
+        "SASS",
+        "TypeScript",
+        "API",
+        "3rd Party Library"
+      ]
+    },
+    {
+      "Title": "Quiz App",
+      "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
+      "ghLink": "https://github.com/mufeez1/quizapp",
+      "demoLink": "https://github.com/mufeez1/quizapp",
+      "Technologies": [
+        "React",
+        "SASS",
+        "TypeScript",
+        "API",
+        "3rd Party Library"
+      ]
+    },
+    {
+      "Title": "Quiz App",
+      "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
+      "ghLink": "https://github.com/mufeez1/quizapp",
+      "demoLink": "https://github.com/mufeez1/quizapp",
+      "Technologies": [
+        "React",
+        "SASS",
+        "TypeScript",
+        "API",
+        "3rd Party Library"
       ]
     },
     {

@@ -100,8 +100,5 @@
 }
 
 img {
-  border: calc(2 * var(--s)) solid #fff;
-  outline: 1px solid #fff;
-  outline-offset: calc(-1 * var(--s));
-  color: white;
+  box-shadow: -50px -50px 0 -40px white, 50px 50px 0 -40px white;
 }
