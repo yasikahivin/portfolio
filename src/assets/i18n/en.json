@@ -73,7 +73,7 @@
   "FeatureProjects.Projects": [
     {
       "Title": "Content Upload Web",
-      "Description": "Patient testimonial and workflow management software developed for Hospital Chain in the USA and Europe. <span class='underline'>online chat, </span, <span class='underline'> &nbsp;order history</span>, <span class='underline'>notification system on number and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>stripe integration for secure payments.</span>",
+      "Description": "Patient testimonial and workflow management software developed for Hospital Chain in the USA and Europe. Client wants to <span class='underline'>capture user-generated content (patient testimonials, medical content) in video, audio, and picture text formats.</span>",
       "imgs": [
         "assets/images/cuw/image1.png",
         "assets/images/cuw/image2.png",
@@ -104,6 +104,7 @@
     {
       "Title": "CovidIT",
       "Description": "<span class='underline'>A MEAN stack web application and IOT device</span>, using web technologies, robotic and image processing technologies to protect frontline health workers from COVID-19.",
+      "ghLink": "https://github.com/yasikahivin/covidIT",
       "imgs": [
         "assets/images/covidit/image1.png",
         "assets/images/covidit/image2.png",
@@ -130,92 +131,48 @@
       ]
     }
   ],
-  "OtherProjects.Title": "More personal projects",
+  "OtherProjects.Title": "More projects",
   "OtherProjects.Projects": [
     {
-      "Title": "Lets Chat",
-      "Description": "A real-time chat application. Another fun side project :)",
-      "ghLink": "https://github.com/mufeez1/lets-chat",
+      "Title": "Urban Planning System (India's First Satellite Development Hackathon)",
+      "Description": "A web and mobile application for predict and view quality of the area using Geographical Information System and RAW satellite data.",
       "Technologies": [
-        "React",
+        "Angular",
+        "MongoDB",
+        "Nodejs",
+        "Android",
+        "Google API’s",
+        "Python",
+        "ArcGIS",
+        "SatNOGS"
+      ]
+    },
+    {
+      "Title": "The Cakesmith",
+      "Description": "A web-based E-Commerce application for placing the orders and interacting with the client and staff and manage the processes.",
+      "ghLink": "https://github.com/yasikahivin/theCakeSmith",
+      "Technologies": [
+        "Angular",
+        "NodeJS",
+        "Firebase",
+        "Google Cloud APIs",
         "SASS",
-        "Socket.io",
+        "TypeScript",
+        "API",
+        "3rd Party Library"
+      ]
+    },
+    {
+      "Title": "WEB POS system - Backend",
+      "Description": "Backend of the web point of sales sytem for local client.",
+      "ghLink": "https://github.com/yasikahivin/web-pos-be",
+      "Technologies": [
         "NodeJS",
         "ExpressJS",
-        "Firebase"
-      ]
-    },
-    {
-      "Title": "Quiz App",
-      "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-      "ghLink": "https://github.com/mufeez1/quizapp",
-      "demoLink": "https://github.com/mufeez1/quizapp",
-      "Technologies": [
-        "React",
-        "SASS",
-        "TypeScript",
-        "API",
+        "MongoDB",
+        "Mongoose",
         "3rd Party Library"
       ]
-    },
-    {
-      "Title": "Quiz App",
-      "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-      "ghLink": "https://github.com/mufeez1/quizapp",
-      "demoLink": "https://github.com/mufeez1/quizapp",
-      "Technologies": [
-        "React",
-        "SASS",
-        "TypeScript",
-        "API",
-        "3rd Party Library"
-      ]
-    },
-    {
-      "Title": "Quiz App",
-      "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-      "ghLink": "https://github.com/mufeez1/quizapp",
-      "demoLink": "https://github.com/mufeez1/quizapp",
-      "Technologies": [
-        "React",
-        "SASS",
-        "TypeScript",
-        "API",
-        "3rd Party Library"
-      ]
-    },
-    {
-      "Title": "Quiz App",
-      "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-      "ghLink": "https://github.com/mufeez1/quizapp",
-      "demoLink": "https://github.com/mufeez1/quizapp",
-      "Technologies": [
-        "React",
-        "SASS",
-        "TypeScript",
-        "API",
-        "3rd Party Library"
-      ]
-    },
-    {
-      "Title": "Quiz App",
-      "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-      "ghLink": "https://github.com/mufeez1/quizapp",
-      "demoLink": "https://github.com/mufeez1/quizapp",
-      "Technologies": [
-        "React",
-        "SASS",
-        "TypeScript",
-        "API",
-        "3rd Party Library"
-      ]
-    },
-    {
-      "Title": "JWT Integration",
-      "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
-      "ghLink": "https://github.com/mufeez1/node-jwt",
-      "demoLink": "https://github.com/mufeez1/node-jwt",
-      "Technologies": ["React", "JWT", "ExpressJS", "POSTGREESQL"]
     }
   ],
   "Contact.Pretitle": "What’s Next",
