@@ -109,7 +109,7 @@
               "src/assets",
               "src/manifest.webmanifest"
             ],
-            "styles": ["src/styles.css"],
+            "styles": ["src/styles.scss"],
             "scripts": []
           }
         },
